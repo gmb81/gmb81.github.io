@@ -14,11 +14,11 @@ Election Year | Republican Candidate Votes | Democrat Candidate Votes |  Differe
 This is what we expect, the Democrat in 2016 was a little ahead in the popular vote, no surprises. Below is a map of the county break down of the 1984 election.  
 
 
- ![Reagan Map 1984](/home/gates/election/1984.png "Reagan Map 1984")
+ ![Reagan Map 1984](/static_files/1984.png "Reagan Map 1984")
 
 For 2016, things are a little bit different. The intense areas in the East and West coast are much less concentrated. However, note the intense red areas in the East and West Coast. The Ohio River valley is more uniformly red than it was in 1984, which is partly why Trump was able to win the election. The shifts show the changing party affiliation and how the Rockefeller Republicans are pretty much gone as an electoral force. 
 
-![Trump Map 2016](/home/gates/election/Trump_2016.png "Trump Map 2016")
+![Trump Map 2016](/static_files/Trump_2016.png "Trump Map 2016")
 
 Nothing is very surprising, this is in line with what the national election showed. However, when we look at the margin of victory for Reagan and Trump, it shows the narrowness of the race in 2016. The table below shows the average margins of the candidates. 
 
@@ -29,4 +29,4 @@ Mondale | 7768.5
 Trump| 6616.6
 Clinton| 37052.8
 
-Counties won is even more shocking
+Although the margin of victory for Trump is less than the margin of victory that Reagan had when he won, Clinton's margin of victory in the counties that she won is tremendous. This is indicative of the large urban concentration of Clinton support as well as the increasingly urban population concentration of voters. 
