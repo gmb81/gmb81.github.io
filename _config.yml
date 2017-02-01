@@ -17,9 +17,12 @@ email: gatesmbrown@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a place for me to share some of things I find interesting, mainly Python and data science. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  gmb81
 
 # Build settings
 markdown: kramdown
+
+#gems
+gems: [jekyll-sitemap,jekyll-seo-tag]
